@@ -3,6 +3,7 @@ using UnityEngine.AI;
 using System.Collections;
 using System.Collections.Generic;
 
+[SelectionBase]
 public class NPCMovement : MonoBehaviour
 {
     /// <summary>
